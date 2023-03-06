@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T06:28:09.856Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="efvN8XYMJN1fmLBwLWvy" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:33:31.129Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bJRMkAvl1RXRC3Bjy0TQ" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="869" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -338,7 +338,7 @@
           <mxGeometry x="250" y="358" width="135" height="72" as="geometry" />
         </mxCell>
         <mxCell id="8phHYG-1kh1Gv9_EDdL0-3" value="Combat" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="250" y="452.5" width="135" height="146.5" as="geometry" />
+          <mxGeometry x="315" y="452.5" width="135" height="146.5" as="geometry" />
         </mxCell>
         <mxCell id="8phHYG-1kh1Gv9_EDdL0-4" value="Characters" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="785" y="249" width="80" height="320" as="geometry" />
@@ -948,6 +948,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1859" y="517" as="sourcePoint" />
             <mxPoint x="2009" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-169" value="Battles" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="565.75" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-170" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="485.75" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-171" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-170">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-172" value="involved&lt;br&gt;in battle" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-170">
+          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-173" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="8phHYG-1kh1Gv9_EDdL0-171" source="8phHYG-1kh1Gv9_EDdL0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="49" y="610" as="sourcePoint" />
+            <mxPoint x="160" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-174" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.817;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8phHYG-1kh1Gv9_EDdL0-171" target="8phHYG-1kh1Gv9_EDdL0-169">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="633" as="sourcePoint" />
+            <mxPoint x="439" y="636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
