@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T07:55:48.860Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F7evYsJTsXNXTxeBm0fe" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T07:56:25.398Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="crXnMKz_e4WyfqykctSs" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="276" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="203" dy="109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,15 +183,6 @@
         </mxCell>
         <mxCell id="8phHYG-1kh1Gv9_EDdL0-56" value="Characters" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2040" y="1200" width="80" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="8phHYG-1kh1Gv9_EDdL0-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1870" y="1180" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8phHYG-1kh1Gv9_EDdL0-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-57">
-          <mxGeometry width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8phHYG-1kh1Gv9_EDdL0-59" value="Owned&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;By&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-57">
-          <mxGeometry x="10" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8phHYG-1kh1Gv9_EDdL0-60" value="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shape=link;fontSize=14;" edge="1" parent="1" source="8phHYG-1kh1Gv9_EDdL0-58" target="8phHYG-1kh1Gv9_EDdL0-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -677,6 +668,15 @@
         </mxCell>
         <mxCell id="8phHYG-1kh1Gv9_EDdL0-33" value="involved&lt;br&gt;(Attacker/&lt;br&gt;Defender)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-220">
           <mxGeometry x="9.5" y="5" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-221" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1870" y="1180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-221">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8phHYG-1kh1Gv9_EDdL0-59" value="Owned&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;By&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8phHYG-1kh1Gv9_EDdL0-221">
+          <mxGeometry x="5" y="5" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
